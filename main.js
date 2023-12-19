@@ -8,6 +8,7 @@ const olMaria = document.querySelector("#maria");
 
 atualizaTela();
 
+
 function leFormulario(event){
   event.preventDefault();  
   const fruta = document.entrada.fruta.value;
